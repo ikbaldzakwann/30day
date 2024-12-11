@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">30 Pelatih Manchester United Terbaik</string>
+
+    <string name="date1">Pelatih 1</string>
+    <string name="title1">Eric Ten Hag</string>
+    <string name="description1">Eric Ten Hag merupakan pelatih yang sangat jago taktik dan jago untuk KALAH dimata fens emyu</string>
+
+    <string name="date2">Pelatih 2</string>
+    <string name="title2">David Moyes</string>
+    <string name="description2">Dia merupakan sesok pelatih emyu tetapi tidak pernah membawakan juara untuk emyu</string>
+
+    <string name="date3">Pelatih 3</string>
+    <string name="title3">Louis Van Gaal</string>
+    <string name="description3">Merupakan sesosok pelatih yang membawakan piala FA </string>
+
+    <string name="date4">Pelatih 4 </string>
+    <string name="title4">Sir Alex Ferguson</string>
+    <string name="description4">Dia merupakan sesosok pelatih yang sangat dicintai oleh fans nya dan mampu membuat klub emyu ditakuti oleh klub lainnya dan mampu memberikan gelar yang sangat banyak untuk emyu</string>
+
+</resources>
